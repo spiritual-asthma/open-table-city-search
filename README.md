@@ -1,5 +1,6 @@
-#Technical Questions 
+# open-table-city-search
 
+## Technical Questions
 1. I spent approximately 2 hours on this assignment.
    In a perfect world I would have completed all the requirements, preferably adding the search bar first and so on. I have managed to fetch the data in the console.
    

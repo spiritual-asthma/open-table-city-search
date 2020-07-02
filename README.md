@@ -1,5 +1,3 @@
-# open-table-city-search
-
 #Technical Questions 
 
 1. I spent approximately 2 hours on this assignment.

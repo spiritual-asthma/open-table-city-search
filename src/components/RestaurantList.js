@@ -11,7 +11,6 @@ class App extends React.Component{
 		const response = await fetch(url);
 		const data = await response.json();
 		this.setState({list: data.restaurants, loading: false});
-		this.props.name({data.restaurants.name});
 		console.log(data);
 	}
 	render(){
@@ -24,8 +23,8 @@ class App extends React.Component{
 				<div className="App">
 	                <ul>
 						{ 
-						    Object.keys(this.state.list[6].name).map((name) => (
-						        <li key={name}>{name}</li>
+						    Object.keys(this.state.list[0]).map((id) => (
+						        <li key={id}></li>
 						    ))
 
 						}  	            

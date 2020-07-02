@@ -24,7 +24,9 @@ had to do this?
 
 5. Because I've only fetched the data at this point, I cannot think of a way to improve this API. However, I'm sure there is one!
 
-6. {
+6. 
+```
+   {
       cool-employable-humans: [
                                     {
                                         id: 42017,
@@ -42,3 +44,5 @@ had to do this?
                                     }
                                ]
         }
+        
+    ```    
